@@ -1,0 +1,92 @@
+[
+    {
+        "code": "QL-00001",
+        "title": "White material",
+        "color": "White",
+        "quantity": "10",
+        "unit_price": "20",
+        "total_price": "200",
+        "currency": "EUR",
+        "origin_country": "France",
+        "measurement_unit": [
+            "m",
+            "kg",
+            "lb",
+            "ft"
+        ],
+        "url": "https://ifoundthismaterialhere.com",
+        "supplier": "Supplier A",
+        "placement": "A45-Top Side"
+    },
+    {
+        "code": "QL-00002",
+        "title": "Yellow material",
+        "color": "Yellow",
+        "quantity": "5",
+        "unit_price": "10",
+        "total_price": "50",
+        "currency": "USD",
+        "origin_country": "Romania",
+        "measurement_unit": [
+            "m",
+            "kg"
+        ],
+        "url": "https://ifoundthismaterialhere.com",
+        "supplier": "Supplier B",
+        "placement": "A45-Left Side"
+    },
+    {
+        "code": "QL-00003",
+        "title": "Orange material",
+        "color": "Orange",
+        "quantity": "17",
+        "unit_price": "10",
+        "total_price": "170",
+        "currency": "EUR",
+        "origin_country": "Germany",
+        "measurement_unit": [
+            "m",
+            "ft"
+        ],
+        "url": "https://ifoundthismaterialhere.com",
+        "supplier": "Supplier C",
+        "placement": "A43-Top Side"
+    },
+    {
+        "code": "QL-00004",
+        "title": "Green material",
+        "color": "Green",
+        "quantity": "10",
+        "unit_price": "15",
+        "total_price": "150",
+        "currency": "USD",
+        "origin_country": "Italy",
+        "measurement_unit": [
+            "m",
+            "kg",
+            "lb"
+        ],
+        "url": "https://ifoundthismaterialhere.com",
+        "supplier": "Supplier D",
+        "placement": "A45-Top Side"
+    },
+    {
+        "code": "QL-00005",
+        "title": "Blue material",
+        "color": "Blue",
+        "quantity": "10",
+        "unit_price": "20",
+        "total_price": "200",
+        "currency": "EUR",
+        "origin_country": "France",
+        "measurement_unit": [
+            "m",
+            "kg",
+            "lb",
+            "ft"
+        ],
+        "url": "https://ifoundthismaterialhere.com",
+        "supplier": "Supplier E",
+        "placement": "A45-Top Side"
+    }
+]
